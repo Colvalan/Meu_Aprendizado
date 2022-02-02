@@ -1,0 +1,24 @@
+Operador        Método        Operação
+______________________________________
+
++               __add__       adição
+-               __sub__       subtração
+*               __mul__       multiplicação
+/               __div__       divisão
+//              __floordiv__  divisão inteira
+%               __mod__       módulo
+**              __pow__       potência
++               __pos__       positivo
+-               __neg__       negativo
+<               __lt__        menor que
+>               __gt__        maior que
+<=              __le__        menor ou igual a
+>=              __ge__        maior ou igual a
+==              __eq__        igual a
+!=              __ne__        diferente de
+<<              __lshift__    deslocamento a esquerda
+>>              __rshift__    deslocamento a direita
+&               __and__       e bit-a-bit
+|               __or__        ou bit-a-bit
+^               __xor__       ou exclusivo bit-a-bit
+~               __inv__       inversão
