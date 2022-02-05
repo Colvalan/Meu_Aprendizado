@@ -80,7 +80,7 @@ O desafio final deste módulo, consistia em criar um sistema bancário simples, 
 
 Como um extra, também codei um programa que capta um ip em formato IPV4 e passa todas as informações relevantes sobre este IP, como número de hosts,ip de broadcast, e etc...
 
-Em módulos builtin, estou aprendendo sobre alguns módulos bastante úteis. (seriam todos built-ins porém o professor adicionou alguns pacotes custons
+Em módulos builtin, estou aprendendo sobre alguns módulos bastante úteis. (seriam todos built-ins porém o professor adicionou algumas bibliotecas custons)
 
 - Datetime
 - OS + SHUTIL
