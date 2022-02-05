@@ -92,6 +92,7 @@ Em módulos builtin, estou aprendendo sobre alguns módulos bastante úteis.
 - ZIP
 - Selenium
 - Threads
+- PyPDF2
 
 Ainda faltam algumas aulas deste módulo. O proximo módulo vai me ensinar PyQT5 para interfaces gráficas!
 
