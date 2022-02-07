@@ -93,6 +93,7 @@ Em módulos builtin, estou aprendendo sobre alguns módulos bastante úteis. (se
 - Selenium
 - Threads
 - PyPDF2
+- FIFO e LIFO
 
 Ainda faltam algumas aulas deste módulo. O proximo módulo vai me ensinar PyQT5 para interfaces gráficas!
 
